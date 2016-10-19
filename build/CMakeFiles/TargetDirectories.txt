@@ -1,0 +1,16 @@
+/Users/mark1/Documents/GitHub Repositories/CG_OpenGLFramework/build/CMakeFiles/install.dir
+/Users/mark1/Documents/GitHub Repositories/CG_OpenGLFramework/build/CMakeFiles/solar_system.dir
+/Users/mark1/Documents/GitHub Repositories/CG_OpenGLFramework/build/CMakeFiles/framework.dir
+/Users/mark1/Documents/GitHub Repositories/CG_OpenGLFramework/build/CMakeFiles/ALL_BUILD.dir
+/Users/mark1/Documents/GitHub Repositories/CG_OpenGLFramework/build/CMakeFiles/ZERO_CHECK.dir
+/Users/mark1/Documents/GitHub Repositories/CG_OpenGLFramework/build/external/glfw-3.1.1/CMakeFiles/install.dir
+/Users/mark1/Documents/GitHub Repositories/CG_OpenGLFramework/build/external/glfw-3.1.1/CMakeFiles/ALL_BUILD.dir
+/Users/mark1/Documents/GitHub Repositories/CG_OpenGLFramework/build/external/glfw-3.1.1/CMakeFiles/ZERO_CHECK.dir
+/Users/mark1/Documents/GitHub Repositories/CG_OpenGLFramework/build/external/glfw-3.1.1/src/CMakeFiles/install.dir
+/Users/mark1/Documents/GitHub Repositories/CG_OpenGLFramework/build/external/glfw-3.1.1/src/CMakeFiles/glfw.dir
+/Users/mark1/Documents/GitHub Repositories/CG_OpenGLFramework/build/external/glbinding-2.1.1/CMakeFiles/install.dir
+/Users/mark1/Documents/GitHub Repositories/CG_OpenGLFramework/build/external/glbinding-2.1.1/CMakeFiles/ALL_BUILD.dir
+/Users/mark1/Documents/GitHub Repositories/CG_OpenGLFramework/build/external/glbinding-2.1.1/CMakeFiles/ZERO_CHECK.dir
+/Users/mark1/Documents/GitHub Repositories/CG_OpenGLFramework/build/external/glbinding-2.1.1/source/CMakeFiles/install.dir
+/Users/mark1/Documents/GitHub Repositories/CG_OpenGLFramework/build/external/glbinding-2.1.1/source/glbinding/CMakeFiles/install.dir
+/Users/mark1/Documents/GitHub Repositories/CG_OpenGLFramework/build/external/glbinding-2.1.1/source/glbinding/CMakeFiles/glbinding.dir
