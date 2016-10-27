@@ -1,4 +1,5 @@
-# Assignment Computer Graphics Winter Semester 2016
+# *** Old Version ***
+### Assignment Computer Graphics Winter Semester 2016
 
 Mark Eisenberg - 116453
 Muzaffar Ali - 115589
